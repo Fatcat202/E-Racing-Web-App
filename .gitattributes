@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
+
+# Used for the purposes of Github Desktop implementation
+# DO NOT MOVE FILE
+
 * text=auto

@@ -9,12 +9,13 @@ import numpy as np               #Streamlit dependency
 
 #region Navigation
 
+# TODO: Implement use of navigation buttons to jump to graphs listed
+
 
 # Addition of E-Racing Logo
 st.logo(
     image = "Images/e_racing_logo.png",
     size = "large"
-
 )
 
 # Pages
